@@ -239,7 +239,7 @@ DEBUG=false
 
 - **Under Development:** This project is actively being developed. Expect potential bugs and breaking changes.
 - **Report Issues:** Found a bug? Please report it on the [GitHub Issues](https://github.com/adityatheog/yukihana/issues) page.
-- **Public Hosting:** Hosting a public instance without permission is prohibited.
+- Yukihana is open-source under Apache 2.0. You may self-host, modify, and deploy commercially. We offer hosted SaaS at [your-domain.com] for those who prefer managed service.
 - **Credits:** Do not remove or modify the project credits.
 
 ## 🤝 Contributing
